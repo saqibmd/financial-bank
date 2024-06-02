@@ -8,16 +8,25 @@ Usage
 Dependencies
 Contact
 Overview
-This repository contains the HTML code for the Fortex Trading website. The website is designed to help users make the best financial decisions by providing detailed information about the platform's features, advantages, and user testimonials.
+This repository contains the HTML code for the Fortex Trading website. The website aims to help users make the best financial decisions by providing detailed information about the platform's features, advantages, and user testimonials.
+
+Note: The website is not fully responsive yet due to time constraints.
 
 Features
-Responsive Navigation Bar: Includes links to Home, About Us, Pricing, and Features sections.
-Hero Section: A visually appealing hero section with a title, description, and action buttons.
-Features Section: Highlights the premium features of the Fortex Trading platform.
-Advantages Section: Describes the key advantages of using the platform.
-Testimonials: Showcases user feedback and testimonials.
-FAQ Section: Provides answers to frequently asked questions.
-Footer: Contains contact information, useful links, legal information, and a newsletter subscription form.
+Responsive Navigation Bar
+Links: Home, About Us, Pricing, Features
+Hero Section
+Title, description, action buttons
+Features Section
+Highlights premium features of the platform
+Advantages Section
+Describes key advantages of using the platform
+Testimonials
+Showcases user feedback and testimonials
+FAQ Section
+Provides answers to frequently asked questions
+Footer
+Contact information, useful links, legal information, newsletter subscription form
 File Structure
 css
 Copy code
@@ -42,8 +51,7 @@ Getting Started
 To get a local copy of the project up and running, follow these simple steps.
 
 Prerequisites
-Make sure you have a modern web browser installed on your computer.
-
+Modern web browser
 Installation
 Clone the repository:
 sh
@@ -55,7 +63,8 @@ Navigate through the different sections of the website using the navigation bar.
 Interact with the buttons and links to explore more about the Fortex Trading platform.
 View the images and read the content to understand the features and advantages of the platform.
 Dependencies
-Remixicon: The website uses Remixicon for the icons. The icons are included via a CDN link in the HTML file.
+Remixicon
+Icons included via CDN link in the HTML file
 Contact
 For any questions or feedback, please contact:
 
