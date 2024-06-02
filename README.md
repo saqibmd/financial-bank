@@ -10,7 +10,7 @@ Contact
 Overview
 This repository contains the HTML code for the Fortex Trading website. The website aims to help users make the best financial decisions by providing detailed information about the platform's features, advantages, and user testimonials.
 
-Note: The website is not fully responsive yet due to time constraints.
+Note: The website is not fully responsive and make it attractive yet due to time constraints.
 
 Features
 Responsive Navigation Bar
